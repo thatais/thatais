@@ -9,7 +9,7 @@
 <div align="center">
 
 **Thaís Duarte de Souza**  
-Estudante de Análise e Desenvolvimento de Sistemas · FATEC Sorocaba
+Estudante de Análise e Desenvolvimento de Sistemas · FATEC Sorocaba (4/6)
 
 </div>
 
