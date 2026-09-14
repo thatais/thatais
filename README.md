@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1500&color=00D2FF&center=true&vCenter=true&width=600&height=80&lines=Ol%C3%A1%2C+mundo!;Tha%C3%ADs+Duarte+de+Souza+%E2%9C%A8;De+baixo+n%C3%ADvel+%C3%A0+IA+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=32&duration=3000&pause=1500&color=BA94D1&center=true&vCenter=true&width=600&height=80&lines=Ol%C3%A1%2C+mundo!!" alt="Olá, mundo!!" />
 
 </div>
 
@@ -9,14 +9,14 @@
 <div align="center">
 
 **Thaís Duarte de Souza**  
-Estudante de Análise e Desenvolvimento de Sistemas · FATEC - SOROCABA
+Estudante de Análise e Desenvolvimento de Sistemas · FATEC Sorocaba
 
 </div>
 
 ---
 
 ### Sobre mim
-- 💻 Foco em estruturas de dados, algoritmos de baixo nível (C, Assembly) e desenvolvimento de software
+- 💻 Foco em estruturas de dados, algoritmos de baixo nível (C) e boas práticas de desenvolvimento
 - 🛰️ Entusiasta de Inteligência Artificial aplicada a impacto social, clima e segurança urbana
 - 📍 Sorocaba - SP
 - 💼 [LinkedIn](https://www.linkedin.com/in/thatais/)
@@ -25,7 +25,7 @@ Estudante de Análise e Desenvolvimento de Sistemas · FATEC - SOROCABA
 
 ### Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=c,assembly,py,fastapi,react,tailwind,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,fastapi,react,tailwind,git)](https://skillicons.dev)
 
 ---
 
@@ -33,7 +33,7 @@ Estudante de Análise e Desenvolvimento de Sistemas · FATEC - SOROCABA
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=thatais&theme=dark&hide_border=true&locale=pt_BR&ring=00D2FF&fire=00D2FF&currStreakLabel=00D2FF&sideLabels=00D2FF&dates=888888&background=00000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thatais&theme=dark&hide_border=true&locale=pt_BR&ring=BA94D1&fire=BA94D1&currStreakLabel=BA94D1&sideLabels=BA94D1&dates=888888&background=00000000)](https://git.io/streak-stats)
 
 </div>
 
